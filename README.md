@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Alejandro / vmalejandro ✨ </h1> 
+<h1 align="center">Hi 👋 I'm Alejandro / vmalejandro ✨ </h1> 
 
 <p align="center">
   <em>
